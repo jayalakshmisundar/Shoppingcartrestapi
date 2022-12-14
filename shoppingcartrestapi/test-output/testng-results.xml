@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11294" started-at="2022-12-14T13:32:27 IST" finished-at="2022-12-14T13:32:39 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11294" started-at="2022-12-14T13:32:27 IST" finished-at="2022-12-14T13:32:39 IST">
+      <class name="shoppingcartRestapi.Restapi">
+        <test-method status="PASS" signature="getaccesstoken()[pri:0, instance:shoppingcartRestapi.Restapi@33f88ab]" name="getaccesstoken" duration-ms="5747" started-at="2022-12-14T13:32:27 IST" finished-at="2022-12-14T13:32:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getaccesstoken -->
+        <test-method status="PASS" signature="register()[pri:1, instance:shoppingcartRestapi.Restapi@33f88ab]" name="register" duration-ms="765" started-at="2022-12-14T13:32:33 IST" finished-at="2022-12-14T13:32:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register -->
+        <test-method status="PASS" signature="login()[pri:2, instance:shoppingcartRestapi.Restapi@33f88ab]" name="login" duration-ms="535" started-at="2022-12-14T13:32:34 IST" finished-at="2022-12-14T13:32:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="logout()[pri:3, instance:shoppingcartRestapi.Restapi@33f88ab]" name="logout" duration-ms="587" started-at="2022-12-14T13:32:34 IST" finished-at="2022-12-14T13:32:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="forgotpassword()[pri:4, instance:shoppingcartRestapi.Restapi@33f88ab]" name="forgotpassword" duration-ms="726" started-at="2022-12-14T13:32:35 IST" finished-at="2022-12-14T13:32:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forgotpassword -->
+        <test-method status="PASS" signature="login1()[pri:5, instance:shoppingcartRestapi.Restapi@33f88ab]" name="login1" duration-ms="532" started-at="2022-12-14T13:32:36 IST" finished-at="2022-12-14T13:32:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login1 -->
+        <test-method status="PASS" signature="getaccountdetails()[pri:6, instance:shoppingcartRestapi.Restapi@33f88ab]" name="getaccountdetails" duration-ms="594" started-at="2022-12-14T13:32:36 IST" finished-at="2022-12-14T13:32:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getaccountdetails -->
+        <test-method status="PASS" signature="updateaccountdata()[pri:7, instance:shoppingcartRestapi.Restapi@33f88ab]" name="updateaccountdata" duration-ms="526" started-at="2022-12-14T13:32:37 IST" finished-at="2022-12-14T13:32:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateaccountdata -->
+        <test-method status="PASS" signature="logout1()[pri:8, instance:shoppingcartRestapi.Restapi@33f88ab]" name="logout1" duration-ms="1217" started-at="2022-12-14T13:32:37 IST" finished-at="2022-12-14T13:32:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout1 -->
+      </class> <!-- shoppingcartRestapi.Restapi -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
